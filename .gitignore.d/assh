@@ -1,0 +1,7 @@
+*
+!.ssh/assh.yml
+!.ssh/assh.d/def.yml
+!.gitignore.d/
+!.gitignore.d/assh
+!.LICENSES.d/
+!.LICENSES.d/assh
